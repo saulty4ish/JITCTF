@@ -17,6 +17,10 @@
 
 * thinkphp5: tp5.0 命令执行漏洞环境
 
+* flask_pin: flask pin码的安全机制问题
+
+* ez-rce: 简单的命令执行绕过
+
 ##### Apche+mysql环境:
 
 * baby shop: 简单支付条件竞争

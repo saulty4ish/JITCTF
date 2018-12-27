@@ -1,0 +1,24 @@
+body{padding-top: 50px;}
+.starter_form {width:300px;
+        padding: 10px 10px;
+        text-align: center;
+        margin: 0 auto;}
+.starter_form1 {width:500px;
+        padding: 10px 10px;
+        text-align: center;
+        margin: 0 auto;}
+.main{
+        background: #fff;
+        width: 730px;
+        margin:0 auto;
+        overflow-clip: hidden;
+        padding: 10px;
+}
+.starter{width:500px;
+        padding: 10px 10px;
+        text-align: center;
+        margin: 0 auto;}
+.center
+{
+        text-align: center;
+}

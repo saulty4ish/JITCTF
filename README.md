@@ -3,6 +3,8 @@
 
 ### 目录
 
+##### Docker环境：
+
 * coloursnake: 简单的抓包分析，重放。
 
 * ezphp: 最基础的变量覆盖
@@ -15,4 +17,16 @@
 
 * thinkphp5: tp5.0 命令执行漏洞环境
 
+##### Apche+mysql环境:
 
+* baby shop: 简单支付条件竞争
+
+* inject-inject5: 简单入门sql注入(万能密码，bool盲注,简单过滤)
+
+* ser: 反序列化正则绕过
+
+* regex1: php弱类型
+
+* regex2: 正则回溯机制，php弱类型
+
+* young: php伪随机特性

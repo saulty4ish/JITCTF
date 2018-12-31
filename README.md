@@ -21,6 +21,7 @@
 
 * ez-rce: 简单的命令执行绕过
 
+
 ##### Apche+mysql环境:
 
 * baby shop: 简单支付条件竞争
@@ -28,6 +29,10 @@
 * inject-inject5: 简单入门sql注入(万能密码，bool盲注,简单过滤)
 
 * ser: 反序列化正则绕过
+
+* ser1: wakeup绕过+protected变量反序列化
+
+* ser2: 简单pop+filter伪协议
 
 * regex1: php弱类型
 
